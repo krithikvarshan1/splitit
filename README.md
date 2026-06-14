@@ -19,8 +19,7 @@ vercel --prod
 ## Project structure
 ```
 squad-split-vercel/
-├── public/
-│   └── index.html   ← entire app (self-contained, no dependencies)
+├── index.html   ← entire app (self-contained, no dependencies)
 ├── vercel.json      ← static output config
 ├── package.json
 └── README.md
