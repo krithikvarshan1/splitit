@@ -1,10 +1,18 @@
 {
   "name": "squad-split",
   "version": "1.0.0",
-  "private": true,
+  "description": "An intuitive expense splitting application for groups, trips, and shared expenses.",
+  "main": "index.html",
   "scripts": {
-    "dev": "npx serve public",
-    "build": "echo 'Static site - no build needed'",
-    "preview": "npx serve public"
-  }
+    "start": "npx serve",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "expense-splitter",
+    "bill-splitter",
+    "finance",
+    "vanilla-js"
+  ],
+  "author": "",
+  "license": "ISC"
 }
